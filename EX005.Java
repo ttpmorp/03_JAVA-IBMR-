@@ -3,7 +3,7 @@
 package IBMRJava;
 
 
-import EX003;
+import EX005;
 
 public class exercicio2 {
 
