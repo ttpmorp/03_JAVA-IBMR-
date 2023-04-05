@@ -12,7 +12,9 @@ public class EX006 {
 		Scanner sc = new Scanner(System.in);
 		
 	
-		
+		// Fórmula da área: area = π . raio2
+		// Considere o valor de π = 3.14159
+	  
 		System.out.print("Digite o valor do raio de um círculo: ");
 		Double raio_de_um_circulo = sc.nextDouble();
 		
